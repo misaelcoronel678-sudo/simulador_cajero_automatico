@@ -26,7 +26,7 @@ else:
 			print ('-'*30)
 	
 	#si esto otro tampoco se cumple entonces 
-	if retiro > saldo or retiro < 0:
+	elif retiro > saldo or retiro < 0:
 			#le decimos al usuario que el retiro no fue posible porque no tiene el dinero suficiente
 			print ('No fue posible hacer el retiro Fondos Insuficientes o ingresaste numeros Negativos')	
 			print ('-'*30)	
