@@ -10,7 +10,7 @@ Este es un proyecto desarrollado en **Python** para simular las operaciones bás
 
 ### 🛠️ Tecnologías
 * Python 3
-* Desarrollado usando Acode y Pydroid 3 en Android.
+* Desarrollado usando Pydroid 3 desde un telefono Android.
 
 ---
 Desarrollado por **Misael Coronel** - Estudiante de BTI
